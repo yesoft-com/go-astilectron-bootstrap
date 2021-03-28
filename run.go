@@ -11,7 +11,7 @@ import (
 
 	"github.com/asticode/go-astikit"
 	"github.com/yesoft-com/go-astilectron"
-	astibundler "github.com/asticode/go-astilectron-bundler"
+	astibundler "github.com/yesoft-com/go-astilectron-bundler"
 )
 
 // Run runs the bootstrap
